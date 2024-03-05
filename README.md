@@ -12,7 +12,7 @@ DJ mixes. Mixxx works on GNU/Linux, Windows, and macOS.
 
 ## Quick Start
 
-To get started with Mixxx:
+To get started with Mixxx: - testing purpose
 
 1. For live use, [download the latest stable version][download-stable].
 2. For experimentation and testing, [download a development release][download-testing].
